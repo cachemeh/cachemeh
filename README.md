@@ -15,7 +15,7 @@ I'm always learning—whether it's deepening my Linux skills, automating tasks w
 
 ## 🚀 Homelab Projects
 
-Check out my [homelab-config repo](https://github.com/alexpipp/homelab-config) for:
+Check out my [homelab-config repo](https://github.com/cachemeh/homelab-config) for:
 
 - Infrastructure-as-Code templates
 - Docker Compose setups
