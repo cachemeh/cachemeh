@@ -1,6 +1,6 @@
-# Hi, I'm Alex 👋
+# >_ whoami
 
-## About Me
+## Hi, I'm Alex 👋
 
 I'm an IT Support Analyst with a strong passion for system administration and infrastructure automation. My skill set includes:
 
