@@ -42,4 +42,4 @@ I'm always open to learning, collaborating, and sharing knowledge. Feel free to 
 
 - **LinkedIn:** [alexpipp](https://www.linkedin.com/in/alexpipp)
 - **Website/Blog:** [alexpipp.com](https://alexpipp.com)
-- **Homelab Config Repo:** [GitHub](https://github.com/alexpipp/homelab-config)
+- **Homelab Config Repo:** [GitHub](https://github.com/cachemeh/homelab-config)
