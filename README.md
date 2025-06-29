@@ -3,7 +3,7 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>My Homelab Environment</b>
-  - [Homelab](https://github.com/cachemeh/homelab)
+  - [Homelab](https://github.com/cachemeh/homelab-config)
 
 <h2>🙋🏼‍♂️ A Little About Me</h2>
 
