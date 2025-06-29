@@ -36,7 +36,7 @@ Check out my [homelab-config repo](https://github.com/cachemeh/homelab-config) f
 
 
 
-## 📈 Let's Connect!
+## 📈 Connect with Me
 
 I'm always open to learning, collaborating, and sharing knowledge. Feel free to connect or check out my work!
 
