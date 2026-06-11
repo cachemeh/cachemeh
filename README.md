@@ -4,23 +4,22 @@
 
 I'm an IT Support Analyst with a strong passion for system administration and infrastructure automation. My skill set includes:
 
-- **Hardware troubleshooting** (servers, desktops, networking)
+- **Hardware troubleshooting** (server, desktop, networking)
 - **Containerization** (Docker, Arcane, Dockge)
 - **Web technologies** (HTML, CSS)
 - **Selfhosting enthusiast:** I run and document my own homelab, continuously experimenting with new tools, services, and automation.
 
-I'm always learning. Deepening my Linux skills, automating tasks with scripting, or exploring cloud platforms. My goal is to grow into a full-fledged Sysadmin and eventually dive deeper into DevOps practices.
+I'm always learning. Deepening my Linux skills, automating tasks with scripting, or exploring cloud platforms. My goal is to grow into a full-fledged sysadmin and eventually dive deeper into DevOps practices.
 
 
 
 ## 🛠️ Skills
 
-- **Operating Systems:** Linux (Ubuntu, CentOS), Windows
+- **Operating Systems:** Linux (Ubuntu, Unraid), Windows, Proxmox
 - **Networking:** TCP/IP, VLAN, firewalls, DNS, DHCP
 - **Automation:** Bash, Python, PowerShell
-- **Configuration Management:** Exploring Ansible, Terraform
-- **Monitoring:** Grafana, Prometheus, Zabbix
-- **Cloud:** AWS, Azure (hands-on with free tiers)
+- **Monitoring:** Grafana, Beszel, Uptime Kuma, ntfy
+- **Cloud:** Microsoft 365, Azure fundamentals, AWS basics
 - **Soft Skills:** Troubleshooting, documentation, continuous learning
 
 
